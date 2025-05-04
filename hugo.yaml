@@ -1,5 +1,5 @@
 baseURL: "https://golden-fox07.github.io/"
-title: BLOG
+title: Tech Cafe
 pagination:
   pagerSize : 5
 languageCode: en-us
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: BLOG
-  description: "Tech cafe"
+  title: Tech Cafe
+  description: "Tech Cafe"
   keywords: [Blog, Portfolio, PaperMod]
   author: golden-fox07
   # author: ["Me", "You"] # multiple authors
@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Tech cafe"
+    text: "Tech Cafe"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -73,16 +73,20 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Welcome to my Tech Cafe! ✮⋆˙"
+    Content: "Hi, I am Aakriti, soon-to-be uni student who makes 3D art in Blender,
+              2D games in Godot, and questionable decisions in JavaScript. 
+              This blog is where I share my dev adventures, bugs, wins, and
+              the occasional meltdown (usually mine, not the computer’s)."
+
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: Linkedin
+      url: "https://www.linkedin.com/in/aakriti-agarwal07/"
+    # - name:
+    #   url: ""
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/golden-fox07"
 
   # analytics:
   #   google:
@@ -123,10 +127,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
