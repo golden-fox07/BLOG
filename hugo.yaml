@@ -81,12 +81,16 @@ params:
 
 
   socialIcons:
+    
     - name: Linkedin
       url: "https://www.linkedin.com/in/aakriti-agarwal07/"
-    # - name:
-    #   url: ""
     - name: github
       url: "https://github.com/golden-fox07"
+    - name: Instagram
+      url: "https://www.instagram.com/0_silent_eyess_0"
+    - name: Gmail
+      url: "mailto: aakriti07agarwal@gmail.com"
+   
 
   # analytics:
   #   google:
