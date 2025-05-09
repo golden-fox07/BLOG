@@ -41,7 +41,7 @@ editPost:
 
 In March 2025, I signed up for the Coursera course [**From Nand to Tetris: Building a Modern Computer**](https://www.coursera.org/learn/build-a-computer) by Shimon Schocken and Noam Nisan. I thought "Why not learn how computers work from the basics?" Spoiler:- It’s not as easy as it sounds. The course promised to turn me into a computer-building wizard, and I got pretty far completing four out of six projects. 
 
-## Logic Gates from NAND
+## Logic Gates from NAND 
 
 The course starts with a simple idea: using only the elementary NAND gate, you can construct all other logic gates necessary for a modern computer. This concept blew my mind, the idea that complex systems ultimately reduce to this simple building block.
 
