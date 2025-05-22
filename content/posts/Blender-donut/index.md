@@ -72,10 +72,10 @@ I learned to create realistic surfaces using the shader editor. The donut got te
 
 I created different types of sprinkles - long and round ones. I used geometry nodes for this. The setup involved using "Distribute Points on Faces" to scatter points across the icing surface, then "Instance on Points" to place the sprinkle geometry. I controlled the sprinkle density with a named attribute and used Collection Info to randomly choose between different sprinkle shapes. The geometry nodes gave me precise control over placement, rotation, and scale variation etc.
 
-Long Sprinkles:
+Geometry Node for Long Sprinkles:
 ![Long Sprinkles](images/Long_Sprinkles.png)
 
-Round Sprinkles:
+Geometry Node for Round Sprinkles:
 ![Round Sprinkles](images/Short_Sprinkles.png)
 
 ### Part 6: Making the Background and Adding Textures
