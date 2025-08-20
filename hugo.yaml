@@ -74,10 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome to my Tech Cafe! ✮⋆˙"
-    Content: "Hi, I am Aakriti, soon-to-be uni student who makes 3D art in Blender,
-              2D games in Godot, and questionable decisions in JavaScript. 
-              This blog is where I share my dev adventures, bugs, wins, and
-              the occasional meltdown (usually mine, not the computer’s)."
+    Content: "Hi I’m Aakriti, a first-year CS student who makes 3D art in Blender, breaks 2D games in Godot, and wrestles with JavaScript at 3am while questioning all my life choices. This blog is where I document my dev adventures, epic bugs, tiny wins, and the occasional meltdown"
 
 
   socialIcons:
@@ -86,9 +83,11 @@ params:
       url: "https://www.linkedin.com/in/aakriti-agarwal07/"
     - name: github
       url: "https://github.com/golden-fox07"
+    - name: itchio
+      url: "https://golden-fox07.itch.io/"
     - name: Instagram
       url: "https://www.instagram.com/0_silent_eyess_0"
-    - name: Gmail
+    - name: email
       url: "mailto: aakriti07agarwal@gmail.com"
    
 
@@ -121,30 +120,30 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-# menu:
-#    main:
-    # - identifier: categories
-    #   name: categories
-    #   url: /categories/
-    #   weight: 10
+  # menu:
+    # main:
+    #  - identifier: categories
+    #    name: categories
+    #    url: /categories/
+    #    weight: 10
     # - identifier: tags
     #   name: tags
     #   url: /tags/
     #   weight: 20
-    #  - identifier: about
-    #    name: about
-    #    url: /about-me/
-    #    weight: 30
+    # - identifier: about
+    #   name: about
+    #   url: /about-me/
+    #   weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    #  anchorLineNos: true
+    #  codeFences: true
+    #  guessSyntax: true
+    #  lineNos: true
+    #  style: monokai
 
 caches:
   images:
