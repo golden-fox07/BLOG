@@ -85,10 +85,11 @@ Decided to build Pong in Godot 4. But make it harder for no reason. Zero externa
 
 <video 
   controls 
-  src="pongwar-demo.mp4" 
+  src="images/pong-war-demo.mp4"
   title="Pong War Demo" 
   style="width:100%; max-width:800px; border-radius:8px; display:block; margin:1rem auto;">
 </video> 
+
 
 
 Why? Probably avoiding university paperwork. But it was weirdly fun making things difficult for myself. Pure code, pure Pong.
