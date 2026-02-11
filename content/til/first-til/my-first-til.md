@@ -1,5 +1,5 @@
 ---
-title: "I Chose Pain (aka Starting Vim)"
+title: "The Vim Journey Begins (because I chose pain)"
 date: 2026-02-02
 # weight: 1
 # aliases: ["/first"]
@@ -37,19 +37,18 @@ editPost:
 ---
 
 
-**Day 1 of my journey to become a Vim wizard by graduation.**
-
-Started with MIT OCW's Lecture 3 on Vim—genuinely the best intro I've found. Discovered there's apparently an "Editor War" raging between Vim and VS Code (Vim wins for terminal, VS Code for overall). Classic internet.
+So, I watched [MIT's Lecture 3](https://missing.csail.mit.edu/2020/editors/) on Vim today and honestly way better than the other tutorials I watched. Also found out there is this whole ["Editor War"](https://en.wikipedia.org/wiki/Editor_war) thing between Vim people and VS Code people. Apparently Vim wins if you live in the terminal, VS Code wins everywhere else.
 
 Today's achievements:
+- `hjkl` for moving around (my arrow keys are no longer needed)
+- `:wq` to exit (got it first try, which means I am already better than like 50% of people)
+- `w` and `b` to jump between words like I know what I'm doing
+- `dd` to delete entire lines (dangerously satisfying)
+- Everything is just keyboard letters somehow? No mouse needed, which is lowkey CRAZYY!
 
-- Learned `hjkl` navigation (RIP arrow keys)
-- Exited Vim on my first try with `:wq` (I'm basically Neo now)
-- Realized you can do _everything_ with just keyboard letters, which is both amazing and deeply intimidating
+So yeahh, Vim is hard. Everyone says it gets good eventually (hopefully). I am choosing to believe them for now but the plan is to just stay consistent so I don't quit by Week 2.
 
-The verdict? Vim has a brutal learning curve, but everyone swears the payoff is worth it. So I'm committing. Tomorrow: Vim Golf to practice. The goal isn't perfection—it's consistency so I don't rage-quit by Week 2.
+**Current status:** Can navigate, exit and can't do much else  
+**Future status:** Editing files at the speed of light
 
-**Current status:** Can navigate, can exit, can't do much else  
-**Future status:** Editing config files at the speed of light
-
-One `dd` at a time. 🚀
+I Also started [Vim Adventures](https://vim-adventures.com/) to actually practice these commands it is basically a game where you can't progress unless you use Vim keybindings. Way more fun than just reading docs.

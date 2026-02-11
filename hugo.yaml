@@ -85,8 +85,8 @@ params:
       url: "https://github.com/golden-fox07"
     - name: itchio
       url: "https://golden-fox07.itch.io/"
-    - name: Instagram
-      url: "https://www.instagram.com/0_silent_eyess_0"
+    # - name: Instagram
+    #   url: "https://www.instagram.com/0_silent_eyess_0"
     - name: email
       url: "mailto: aakriti07agarwal@gmail.com"
    
